@@ -19,7 +19,7 @@ password: admin123
 ## Usage
 Install in a Virtual Environment. Once you have set up a VE, clone this project
 ```bash
-git clone https://github.com/adigunsherif/Django-School-Management-System.git
+git clone git@github.com:itx-nasir/Student-Management-System.git
 ```
 Then
 
@@ -61,7 +61,9 @@ black .
 python manage.py test
 ```
 
+## Author
+Nasir Iqbal
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Actively under development
