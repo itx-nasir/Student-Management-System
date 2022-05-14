@@ -10,11 +10,9 @@ It currently doesn't allow students/staff to login.
 
 
 ## Demo
-Demo has stopped working on https://django-school-app.herokuapp.com/ since Heroku has stopped their free version.
-```bash
-username: admin
-password: admin123
-```
+Live demo available at: https://student-management-system-gfln.onrender.com
+
+Note: The app may take a few seconds to wake up if it hasn't been accessed recently (Render free tier spins down after inactivity).
 
 ## Usage
 Install in a Virtual Environment. Once you have set up a VE, clone this project
@@ -68,3 +66,5 @@ Nasir Iqbal
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Actively under development
+
+
